@@ -1,0 +1,8 @@
+15 attack_new.bmp
+25 btspeed.bmp
+37 next.bmp
+38 result.bmp
+39 chose_helper.bmp
+41 start_battle.bmp
+42 shajie.bmp
+43 eat_apple.bmp

@@ -1,0 +1,2 @@
+train：卡色训练
+train_face:人脸训练（bqa分别代表第1、2、3位）
